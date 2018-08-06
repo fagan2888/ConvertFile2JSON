@@ -15,8 +15,4 @@ Output:
 (1) Output is stored in result.json. The "entries" are sorted by last name, first name.
 (2) method "convert" inside  convertFile2Json.py also outputs json object with standard json.loads().
 (3) JSON output is also printed in the console using print statement
-
-PS:
-I did not quite get results.out. I believe it is expected to be some sort of dictionary structure. So I wrote output to a file
-
-Thank you for giving the opportunity!
+ 
